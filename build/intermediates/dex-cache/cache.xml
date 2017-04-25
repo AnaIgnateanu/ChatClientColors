@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_e8261207e95165638781865071a6e373e81ef564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_902e8ebb41a5dd4f3488020a771613581c5cb81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_809484766e7824272a23d0125790a3336c6e9efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_5a77b44c52c725a064ee15c8c662227f108c9f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_609dbdaef133e76c8b597cbcc3ed801bfc603634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_a5127ba3ae824d380d89369df2230fefa174c4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_ed18c3844c567cded9fca8cbaa4afcf1aa19312b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_b695945248a2d66eb1beb5a4e8a059e82c254f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\ana\AndroidStudioProjects\ChatClientColors\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_e3a1a33f1cbddc76c32964feafe0e1c4eb30d4a6.jar" />
+    </item>
+
+</items>
